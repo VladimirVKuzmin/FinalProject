@@ -16,3 +16,8 @@
 
 
   ![Diagramm](https://github.com/VladimirVKuzmin/FinalProject/blob/main/FinalProjectDiagram.drawio.png?raw=true)
+  
+Результат
+["hello", "2", "world", ":-)"] -> ["2", ":-)"]
+["1234", "1567", "-2", "computer science"] -> ["-2"]
+["Russia", "Denmark", "Kazan"] -> []
