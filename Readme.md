@@ -14,4 +14,4 @@
   * Выводим массив на печать.
 
 
-  !https://raw.githubusercontent.com/VladimirVKuzmin/FinalProject/main/FinalProjectDiagram.drawio.png
+  !(https://raw.githubusercontent.com/VladimirVKuzmin/FinalProject/main/FinalProjectDiagram.drawio.png)
