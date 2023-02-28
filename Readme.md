@@ -6,4 +6,4 @@
 
 Алгоритм решения
 
-![Diagramm](https://raw.githubusercontent.com/VladimirVKuzmin/FinalProject/main/FinalProjectDiagram.jpg)
+![Diagramm](https://raw.githubusercontent.com/VladimirVKuzmin/FinalProject/main/FinalProjectDiagram.drawio.png)
