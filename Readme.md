@@ -15,4 +15,4 @@
 6. Выводим массив на печать.
 
 
-  ![Diagramm](D:\GeekBrains\FinalProject\FinalProjectDiagram.drawio.png)
+  ![Diagramm](https://github.com/VladimirVKuzmin/FinalProject/blob/main/FinalProjectDiagram.drawio.png?raw=true)
